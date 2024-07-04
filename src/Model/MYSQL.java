@@ -18,7 +18,7 @@ public class MYSQL {
       
     private static Connection c;
     private static final String username = "root";
-    private static final String password = "T200275701170h@";
+    private static final String password = "";
     private static final String database = "advancar";
 
     public static Statement createConnection() throws Exception {
